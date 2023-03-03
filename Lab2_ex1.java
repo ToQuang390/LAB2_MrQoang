@@ -16,13 +16,12 @@ public class Lab2_ex1 {
 	}
 
 	public static double laydu(double a, double b) {
-		int laydu ;
+		 double laydu ;
 		if (b == 0) {
 			System.out.println("Khong thuc hien duoc phep chia ->Mau phai khac 0");
 			return 0;
 		}
-		double kq=a%b;
-		return laydu= (int) kq;
+		return laydu=a%b;
 	}
 
 	public static double tich(double a, double b) {
