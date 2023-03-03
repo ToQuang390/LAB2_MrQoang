@@ -26,7 +26,7 @@ public class Lab2_ex1 {
 	}
 
 	public static double tich(double a, double b) {
-		double tich = 0;
+		double tich ;
 		return tich = a * b;
 	}
      public static void  Check(float a,float b) {
